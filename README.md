@@ -1,1 +1,1 @@
-# JEQ-reports
+# JEQReports
