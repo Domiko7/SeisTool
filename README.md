@@ -1,1 +1,1 @@
-# JEQReports
+# SeisTool
